@@ -3,7 +3,7 @@ package druhypolrok.tyyden07;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+//hello
 public class UlohyOpakovanie {
     public static void main(String[] args) {
     List<Integer> pole01 = Arrays.asList(1,5,3,6,4,3,4,6,3,6);
